@@ -11,6 +11,19 @@ Welcome to Test's documentation!
    :caption: Contents:
 
 
+The Contributor Guide
+---------------------
+
+If you want to contribute to the project, this part of the documentation is for
+you.
+
+.. toctree::
+   :maxdepth: 3
+
+   dev/contrib
+
+There are no more guides. You are now guideless.
+
 
 Indices and tables
 ==================
