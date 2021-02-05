@@ -6,6 +6,8 @@
 Welcome to Test's documentation!
 ================================
 
+This is 0.1 version!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
